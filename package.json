@@ -1,0 +1,34 @@
+{
+  "name": "fbwebhook",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.6.0",
+    "npm": "8.1.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David134521/huko-bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David134521/huko-bot/issues"
+  },
+  "homepage": "https://github.com/David134521/huko-bot",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "description": ""
+}
